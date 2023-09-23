@@ -1,0 +1,235 @@
+* {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+body {
+  width: 1366px;
+  background: #f4f8fa;
+  color: #444150;
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 150% */
+}
+.container {
+  width: 496px;
+}
+.box {
+  margin-top: 24px;
+  width: 496px;
+  border-radius: 10px;
+  background: var(--White, #fff);
+  box-shadow: 0px 4px 56px 0px rgba(0, 0, 0, 0.04),
+    0px 12px 16px 0px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  height: 849px;
+}
+.tepa {
+  text-align: center;
+}
+.tepa img {
+  padding-top: 40px;
+  padding-bottom: 24px;
+}
+.ppp {
+  padding-top: 16px;
+  padding-bottom: 56px;
+  color: #444150;
+  font-family: ?????;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+}
+.hhh {
+  color: rgba(0, 0, 0, 0.85);
+  font-family: Segoe UI;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.pastt {
+  color: rgba(0, 0, 0, 0.65);
+  text-align: center;
+  font-family: ?????;
+  font-size: 14px;
+  font-style: normal;
+  /* font-weight: 400; */
+  line-height: 22px; /* 157.143% */
+}
+.past {
+  padding-top: 64px;
+  text-align: center;
+  padding-bottom: 25px;
+}
+.first {
+  padding: 0;
+  margin: 0;
+}
+.firto {
+  padding: 0;
+  margin: 0;
+  /* text-align: left; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+input {
+  width: 416px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  border: 2px solid #d9d9d9;
+  background: #fff;
+}
+.log {
+  color: var(--01-bab-3, #01bab3);
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px; /* 162.5% */
+}
+.first input {
+  width: 180px;
+}
+label {
+  padding-left: 0;
+  margin-left: 0;
+  padding-top: 8px;
+}
+.form-field {
+  padding: 0;
+  margin: 0;
+  /* text-align: left; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.boxf {
+  width: 221px;
+  padding: 0;
+  margin: 0;
+  /* width: 416px; */
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  border: 2px solid #d9d9d9;
+  background: #fff;
+
+  align-items: center;
+}
+.boxf input {
+  width: 20px;
+  height: 20px;
+  margin-top: 14px;
+  margin-left: 16px;
+  margin-right: 16px;
+  border: 2px solid var(--01-bab-3, #01bab3);
+}
+.boxf:hover {
+  border-radius: 4px;
+  border: 2px solid var(--01-bab-3, #01bab3);
+  background: #fff;
+}
+input:hover {
+  border-radius: 4px;
+  border: 2px solid var(--01-bab-3, #01bab3);
+  background: #fff;
+}
+.sub {
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+  width: 458px;
+  height: 50px;
+  border-radius: 4px;
+  border: 0;
+  background: var(--01-bab-3, #01bab3);
+  color: #fff;
+  text-align: center;
+  /* justify-content: center; */
+  gap: 0;
+}
+.subb {
+  display: inline-block;
+  /* margin-top: -20px; */
+  color: var(--ffffff, #fff);
+  /* text-align: center; */
+  font-family: Segoe UI;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-right: 0;
+  padding-right: 0;
+  text-align: center;
+}
+.subb img {
+  padding-left: 0;
+  margin-left: 0;
+  /* text-align: center; */
+}
+.bbtt {
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+}
+.sub:hover {
+  cursor: pointer;
+}
+.llll {
+  color: #01bab3;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+/* tepa qismi */
+.boshi {
+  padding: 0 70px;
+  width: 1360px;
+  height: 58.24px;
+  border: 1px solid #a2a1a1;
+  background: #fff;
+  margin: 0 auto;
+}
+.cont {
+  display: flex;
+  align-items: center;
+  gap: 460px;
+}
+.ong {
+  gap: 50px;
+}
+.btnn {
+  display: inline-block;
+  border: 1px solid #a2a1a1;
+  border-radius: 3px;
+}
+.ong a {
+  text-decoration: none;
+}
+.ong a:hover {
+  color: #01bab3;
+}
+.maila {
+  padding: 0;
+  margin: 0;
+}
+.sub p {
+  padding-right: 180px;
+}
+.box5 {
+  margin-top: 24px;
+  width: 496px;
+  border-radius: 10px;
+  background: var(--White, #fff);
+  box-shadow: 0px 4px 56px 0px rgba(0, 0, 0, 0.04),
+    0px 12px 16px 0px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  height: 599px;
+}
